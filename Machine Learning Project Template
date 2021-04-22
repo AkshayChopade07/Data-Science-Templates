@@ -1,0 +1,55 @@
+Machine Learning Project Template: The Right way of implementation
+
+Step 1: Prepare Problem Or Understand the problem statement
+
+            a) Understanding data set
+
+                        -- Load Required libraries
+
+            b) Observe the dataset
+
+Step 2:Summarize Data
+
+        Need to check descriptive statistics
+
+           a)The Distribution
+
+           b) The Central Tendency
+
+            c) The Dispersion
+
+Step 3: Prepare Data
+
+               a) Data Cleaning
+
+                b) Feature Selection
+
+                c) Data Transforms
+
+                d) Split your data into train and test sets.
+
+Step 4: Evaluate Algorithms
+
+                a)Train your model on the training dataset
+
+                b)Evaluation of Model
+
+                c) Spot Check algorithms
+
+                d) Compare Algorithms
+
+Step 5:Improve Accuracy
+
+        a) Algorithm Tuning
+
+        b) Ensembles
+
+        c) Bagging (Bootstrap Aggregating)
+
+        d) Boosting
+
+Step 6: Finalize Model
+
+        a)Create a Standalone model on the entire training
+
+        b) Save Model for Later use.
